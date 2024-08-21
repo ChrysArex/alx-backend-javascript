@@ -1,7 +1,6 @@
-This project is an introduction to backend developpement using node and
-express.js. 
-
-It covers:
+This project is an introduction to server side programmation using
+javascript and nodeJS and create basic http server with expressJS. It 
+specially include how to:
 
 -run javascript using NodeJS
 
@@ -20,3 +19,4 @@ It covers:
 -use ES6 with Node JS with Babel-node
 
 -use Nodemon to develop faster
+

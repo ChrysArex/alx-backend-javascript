@@ -1,6 +1,4 @@
-/*
- * Display message to the STDOUT
-*/
-
-function displayMessage(msg) { process.stdout.write(`${msg}\n`); }
+function displayMessage(message) {
+  process.stdout.write(`${message}\n`);
+}
 module.exports = displayMessage;
